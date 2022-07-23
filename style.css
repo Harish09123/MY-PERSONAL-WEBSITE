@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+#app{
+font-size: larger;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(235, 235, 128);
+}
+
+#game{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(171, 235, 128);
+}
+
+img{
+    width: 260px;
+    height: 280px;
+}
+
+#chatbot{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(128, 219, 235);
+}
+
+
